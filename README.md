@@ -3,8 +3,7 @@
 
 [Résumé]
 
-Je suis un diplômé récent en cybersécurité et je veux vous partager mon cheminement pour développer mon carrière en cybersécurité.
-
+Je suis un diplômé récent en cybersécurité et je voudrais partager avec vous mes projets personnels!
 <!---
 ShudeIsLearning/ShudeIsLearning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
